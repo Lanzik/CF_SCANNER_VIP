@@ -55,9 +55,7 @@ if __name__ == "__main__":
         print("\n✅ Xray is running. Starting tests...\n" + "="*30)
 
         sites_to_test = [
-            "https://www.google.com",
-            "https://www.youtube.com",
-            "https://www.x.com"
+            "https://www.youtube.com"
         ]
 
         for site in sites_to_test:
